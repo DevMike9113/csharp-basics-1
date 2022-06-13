@@ -1,0 +1,15 @@
+/Users/michealskinner/Desktop/development/TestProjects/C#/ProgrammingC#/lesson1HandsOn/bin/Debug/net6.0/lesson1HandsOn
+/Users/michealskinner/Desktop/development/TestProjects/C#/ProgrammingC#/lesson1HandsOn/bin/Debug/net6.0/lesson1HandsOn.deps.json
+/Users/michealskinner/Desktop/development/TestProjects/C#/ProgrammingC#/lesson1HandsOn/bin/Debug/net6.0/lesson1HandsOn.runtimeconfig.json
+/Users/michealskinner/Desktop/development/TestProjects/C#/ProgrammingC#/lesson1HandsOn/bin/Debug/net6.0/lesson1HandsOn.dll
+/Users/michealskinner/Desktop/development/TestProjects/C#/ProgrammingC#/lesson1HandsOn/bin/Debug/net6.0/lesson1HandsOn.pdb
+/Users/michealskinner/Desktop/development/TestProjects/C#/ProgrammingC#/lesson1HandsOn/obj/Debug/net6.0/lesson1HandsOn.csproj.AssemblyReference.cache
+/Users/michealskinner/Desktop/development/TestProjects/C#/ProgrammingC#/lesson1HandsOn/obj/Debug/net6.0/lesson1HandsOn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michealskinner/Desktop/development/TestProjects/C#/ProgrammingC#/lesson1HandsOn/obj/Debug/net6.0/lesson1HandsOn.AssemblyInfoInputs.cache
+/Users/michealskinner/Desktop/development/TestProjects/C#/ProgrammingC#/lesson1HandsOn/obj/Debug/net6.0/lesson1HandsOn.AssemblyInfo.cs
+/Users/michealskinner/Desktop/development/TestProjects/C#/ProgrammingC#/lesson1HandsOn/obj/Debug/net6.0/lesson1HandsOn.csproj.CoreCompileInputs.cache
+/Users/michealskinner/Desktop/development/TestProjects/C#/ProgrammingC#/lesson1HandsOn/obj/Debug/net6.0/lesson1HandsOn.dll
+/Users/michealskinner/Desktop/development/TestProjects/C#/ProgrammingC#/lesson1HandsOn/obj/Debug/net6.0/refint/lesson1HandsOn.dll
+/Users/michealskinner/Desktop/development/TestProjects/C#/ProgrammingC#/lesson1HandsOn/obj/Debug/net6.0/lesson1HandsOn.pdb
+/Users/michealskinner/Desktop/development/TestProjects/C#/ProgrammingC#/lesson1HandsOn/obj/Debug/net6.0/lesson1HandsOn.genruntimeconfig.cache
+/Users/michealskinner/Desktop/development/TestProjects/C#/ProgrammingC#/lesson1HandsOn/obj/Debug/net6.0/ref/lesson1HandsOn.dll
